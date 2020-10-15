@@ -5,7 +5,10 @@
  */
 
 function addItemsPosition(strArray) {
-
+  for (let i=0;i<strArray.length;i++){
+    strArray[i] = (i+1)+". "+strArray[i];
+  }
+  return strArray;
 }
 
 
