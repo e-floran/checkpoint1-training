@@ -1,3 +1,8 @@
+@import 'one.css';
+@import 'two.css';
+@import 'three.css';
+@import 'four.css';
+
 section {
   padding: 3em 0;
 }

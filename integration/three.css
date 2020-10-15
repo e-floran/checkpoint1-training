@@ -1,0 +1,12 @@
+ul{
+    list-style-type: none;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+a{
+    color:#ff55ff;
+}
+a:hover{
+    color:#55ff55;
+}
